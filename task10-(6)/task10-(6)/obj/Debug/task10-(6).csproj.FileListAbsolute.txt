@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task10-(6)\task10-(6)\bin\Debug\task10-(6).exe.config
+C:\Users\Z\Desktop\task10-(6)\task10-(6)\bin\Debug\task10-(6).exe
+C:\Users\Z\Desktop\task10-(6)\task10-(6)\bin\Debug\task10-(6).pdb
+C:\Users\Z\Desktop\task10-(6)\task10-(6)\obj\Debug\task10-(6).csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task10-(6)\task10-(6)\obj\Debug\task10-(6).exe
+C:\Users\Z\Desktop\task10-(6)\task10-(6)\obj\Debug\task10-(6).pdb
